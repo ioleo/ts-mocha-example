@@ -1,0 +1,1 @@
+{"version":3,"file":"tsme.js","sourceRoot":"","sources":["../../src/tsme.ts"],"names":[],"mappings":";;;AACA,kDAA8C;AAE9C,yBAAW,CAAC,GAAG,EAAE,CAAA","sourcesContent":["#!/usr/bin/env node\nimport {Application} from \"./main/Application\"\n\nApplication.run()\n"]}

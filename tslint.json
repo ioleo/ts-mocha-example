@@ -1,0 +1,16 @@
+{
+  "extends": "tslint:latest",
+  "rules": {
+    "curly": true,
+    "semicolon": [true, "never"],
+    "quotemark": [true, "single"],
+    "no-console": false
+  },
+  "jsRules": {
+    "curly": true,
+    "semicolon": [true, "never"],
+    "quotemark": [true, "single"],
+    "no-console": false
+  },
+  "rulesDirectory": []
+}
